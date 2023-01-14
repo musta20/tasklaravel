@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Musta20\Tasklaravel\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class TasklaravelCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'tasklaravel';
 
     public $description = 'My command';
 
